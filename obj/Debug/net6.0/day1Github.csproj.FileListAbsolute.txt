@@ -1,0 +1,15 @@
+/Users/amardeepmann/Desktop/Codestack/level1/week1/day1Github/bin/Debug/net6.0/day1Github
+/Users/amardeepmann/Desktop/Codestack/level1/week1/day1Github/bin/Debug/net6.0/day1Github.deps.json
+/Users/amardeepmann/Desktop/Codestack/level1/week1/day1Github/bin/Debug/net6.0/day1Github.runtimeconfig.json
+/Users/amardeepmann/Desktop/Codestack/level1/week1/day1Github/bin/Debug/net6.0/day1Github.dll
+/Users/amardeepmann/Desktop/Codestack/level1/week1/day1Github/bin/Debug/net6.0/day1Github.pdb
+/Users/amardeepmann/Desktop/Codestack/level1/week1/day1Github/obj/Debug/net6.0/day1Github.csproj.AssemblyReference.cache
+/Users/amardeepmann/Desktop/Codestack/level1/week1/day1Github/obj/Debug/net6.0/day1Github.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amardeepmann/Desktop/Codestack/level1/week1/day1Github/obj/Debug/net6.0/day1Github.AssemblyInfoInputs.cache
+/Users/amardeepmann/Desktop/Codestack/level1/week1/day1Github/obj/Debug/net6.0/day1Github.AssemblyInfo.cs
+/Users/amardeepmann/Desktop/Codestack/level1/week1/day1Github/obj/Debug/net6.0/day1Github.csproj.CoreCompileInputs.cache
+/Users/amardeepmann/Desktop/Codestack/level1/week1/day1Github/obj/Debug/net6.0/day1Github.dll
+/Users/amardeepmann/Desktop/Codestack/level1/week1/day1Github/obj/Debug/net6.0/refint/day1Github.dll
+/Users/amardeepmann/Desktop/Codestack/level1/week1/day1Github/obj/Debug/net6.0/day1Github.pdb
+/Users/amardeepmann/Desktop/Codestack/level1/week1/day1Github/obj/Debug/net6.0/day1Github.genruntimeconfig.cache
+/Users/amardeepmann/Desktop/Codestack/level1/week1/day1Github/obj/Debug/net6.0/ref/day1Github.dll
